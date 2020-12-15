@@ -7,7 +7,7 @@ sites:
   - name: Answers
     url: https://answers.microsoft.com
   - name: Tool
-    url: https://forum.claude3.xyz
+    url: $https://forum.claude3.xyz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
