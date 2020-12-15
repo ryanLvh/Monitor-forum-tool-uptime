@@ -10,6 +10,7 @@ sites:
     url: $https://forum.claude3.xyz
     expectedStatusCodes: 
       - 200
+      - 0
     maxResponseTime: 5000
 
 status-website:
