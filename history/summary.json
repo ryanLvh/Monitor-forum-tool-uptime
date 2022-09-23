@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/answers.microsoft.com",
     "slug": "answers",
     "status": "up",
-    "uptime": "60.36%",
+    "uptime": "60.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.98%",
-    "time": 602,
-    "timeDay": 1360,
-    "timeWeek": 768,
-    "timeMonth": 838,
-    "timeYear": 831,
+    "uptimeYear": "30.26%",
+    "time": 605,
+    "timeDay": 1179,
+    "timeWeek": 860,
+    "timeMonth": 858,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2022-06-06": 1181,
       "2022-06-05": 1440,
@@ -269,8 +269,7 @@
       "2021-09-27": 1440,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
-      "2021-09-24": 1440,
-      "2021-09-23": 1440
+      "2021-09-24": 1440
     }
   },
   {
