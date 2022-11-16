@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/answers.microsoft.com.ico",
     "slug": "answers",
     "status": "up",
-    "uptime": "63.42%",
+    "uptime": "63.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "44.77%",
-    "time": 685,
-    "timeDay": 1323,
-    "timeWeek": 827,
+    "uptimeYear": "45.05%",
+    "time": 687,
+    "timeDay": 742,
+    "timeWeek": 838,
     "timeMonth": 794,
     "timeYear": 813,
     "dailyMinutesDown": {
@@ -216,8 +216,7 @@
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
-      "2021-11-17": 1440,
-      "2021-11-16": 1440
+      "2021-11-17": 1440
     }
   },
   {
