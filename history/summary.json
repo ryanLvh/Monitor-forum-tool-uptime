@@ -4,8 +4,8 @@
     "url": "https://answers.microsoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/answers.microsoft.com.ico",
     "slug": "answers",
-    "status": "up",
-    "uptime": "72.45%",
+    "status": "down",
+    "uptime": "72.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 728,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2023-07-03": 0,
       "2023-04-26": 53,
       "2023-04-09": 61,
       "2023-04-08": 5,
