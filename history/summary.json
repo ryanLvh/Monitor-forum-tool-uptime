@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/answers.microsoft.com.ico",
     "slug": "answers",
     "status": "up",
-    "uptime": "86.44%",
+    "uptime": "86.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 715,
-    "timeDay": 253,
-    "timeWeek": 288,
-    "timeMonth": 317,
-    "timeYear": 592,
+    "time": 713,
+    "timeDay": 247,
+    "timeWeek": 305,
+    "timeMonth": 319,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2026-01-11": 63,
       "2026-01-10": 9,
@@ -41,8 +41,7 @@
       "2025-03-24": 24,
       "2025-03-23": 19,
       "2025-03-22": 70,
-      "2025-03-18": 28,
-      "2025-03-02": 20
+      "2025-03-18": 28
     }
   },
   {
